@@ -1,0 +1,13 @@
+tensorflow==2.16.1
+opencv-python==4.11.0.86
+matplotlib==3.10.1
+numpy==1.26.4
+streamlit==1.45.1
+scikit-learn==1.6.1
+pillow==11.2.1
+pandas==2.2.3
+seaborn==0.13.2
+jupyter==1.1.1
+notebook==7.4.2
+ipykernel==6.29.5
+h5py==3.13.0
